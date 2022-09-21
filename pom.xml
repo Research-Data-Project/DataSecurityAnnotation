@@ -8,7 +8,7 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.lsi.usthb</groupId>
+	<groupId>org.lsi.research</groupId>
 	<artifactId>dataSecurity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dataSecurity</name>
