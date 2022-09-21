@@ -1,4 +1,4 @@
-package org.lsi.usthb.dataSecurity;
+package org.lsi.usthb.datasecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
