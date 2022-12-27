@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.lsi.research</groupId>
 	<artifactId>dataSecurity</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>dataSecurity</name>
 	<description>Data security project</description>
 	<properties>
